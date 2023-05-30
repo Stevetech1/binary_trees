@@ -1,6 +1,6 @@
 This is a collaboratory project done by 
 [Steve Ojata](https://github.com/Stevetech1) and 
-Juliet Ndlamini
+JULIET NDLAMINI
 
 General Requirements
 
